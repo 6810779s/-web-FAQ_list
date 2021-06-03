@@ -1,8 +1,3 @@
-// let first_Q = document.querySelector(".FAQ:nth-child(2)");
-// let second_Q = document.querySelector(".FAQ:nth-child(3)");
-// let third_Q = document.querySelector(".FAQ:nth-child(4)");
-// let fourth_Q = document.querySelector(".FAQ:nth-child(5)");
-
 let items = document.querySelectorAll(".question");
 let arrows_bottom = document.querySelectorAll(".question span:first-child");
 let arrows_top = document.querySelectorAll(".question span:last-child");
